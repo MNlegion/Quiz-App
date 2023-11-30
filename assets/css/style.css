@@ -9,3 +9,11 @@ body {
     background: #c2f7ff;
 }
 
+.app {
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    padding: 20px;
+}
+
