@@ -50,7 +50,12 @@ body {
     border-radius: 5px;
     margin-bottom: 10px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease;
+}
+
+.answer:hover {
+    background: rgb(30, 31, 97);
+    color: #fff;
 }
 
 .controls {
