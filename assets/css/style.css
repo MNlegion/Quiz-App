@@ -60,7 +60,31 @@ body {
 
 .controls {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 20px;
 }
+
+.controls button:hover {
+    background: rgb(144, 145, 217);
+    color: #fff;
+}
+
+.btn-style {
+    background: rgb(30, 31, 97);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+
+.controls__previous {
+    margin-left: 20%;
+}
+
+.controls__submit {
+    margin-right: 20%;
+}
+
 
