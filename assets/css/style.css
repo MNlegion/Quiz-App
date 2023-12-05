@@ -6,7 +6,7 @@
 }
 
 body {
-    background: rgb(30, 31, 97);
+    background: linear-gradient(90deg, rgb(30, 31, 97), whitesmoke);
 }
 
 .app {
